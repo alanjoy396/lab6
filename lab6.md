@@ -6,7 +6,7 @@
 
 ## Code for 4 Letter Pair Solution
 
-'''python
+```python
 """
 =====
 Words
@@ -93,11 +93,11 @@ if __name__ == '__main__':
                 print(n)
         except nx.NetworkXNoPath:
             print("None")
-'''
+```
 
 ## Unordered Solution Code:
 
-'''python
+```python
 """
 =====
 Words
@@ -191,7 +191,7 @@ if __name__ == '__main__':
         except nx.NetworkXNoPath:
             print("None")
 
-'''
+```
 
 ## Unordered Solution Results:
 
